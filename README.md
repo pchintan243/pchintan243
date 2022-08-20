@@ -13,7 +13,7 @@
   </p>
 <br>
 
-- 👨‍💻 **Portfolio website link** [(https://pchintan243.github.io/Portfolio/)](https://pchintanportfolio.netlify.com/)
+- 👨‍💻 **Portfolio website link** [**Portfolio**](https://pchintanportfolio.netlify.com/)
 
 - 💬 Ask me about **C || C++ || HTML || CSS**
 
