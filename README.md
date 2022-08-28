@@ -15,7 +15,7 @@
 
 - 👨‍💻 **Portfolio website link** [**Portfolio**](https://pchintanportfolio.netlify.com/)
 
-- 💬 Ask me about **C || C++ || HTML || CSS**
+- 💬 Ask me about **C || C++ || DSA || HTML || CSS**
 
 - 📫 How to reach me **patelchintan843@gmail.com**
 
