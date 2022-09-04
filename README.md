@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, 👋 I'm Chintan Patel </h1>
 
-### 👉Currently pursuing B.E. INFORMATION TECHNOLOGY at A. D. Patel Institute Of Technology (3<sup>rd</sup> year)
+### 👉Currently pursuing B.E. INFORMATION TECHNOLOGY At A. D. Patel Institute Of Technology (3<sup>rd</sup> year)
 
 ### 👀Passionate About Coding✌</h3>
 
