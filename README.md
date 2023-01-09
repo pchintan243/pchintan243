@@ -31,7 +31,7 @@
 
 <a href="https://github.com/pchintan243/github-readme-stats"><img alt="Chintan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchintan243&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-[![Chintan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pchintan243&theme=dracula)](https://github.com/pchintan243/github-readme-activity-graph)
+[![Chintan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pchintan243&theme=merko)](https://github.com/pchintan243/github-readme-activity-graph)
 <br/>
 
 ### Connect with me..!!
