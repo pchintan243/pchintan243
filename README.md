@@ -1,4 +1,10 @@
+
 <h1 align="center"> Hello,👋 I'm Chintan Patel </h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 ### 👉Currently Pursuing B.E. INFORMATION TECHNOLOGY At A. D. Patel Institute Of Technology (3<sup>rd</sup> year)
 
