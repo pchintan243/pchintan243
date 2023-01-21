@@ -29,13 +29,13 @@
 <br>
 <br>
 
-## 📊GitHub Stats
-<br/>
 
-![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchintan243&show_icons=true&theme=highcontrast&hide_border=true)
-<br>
 
-<a href="https://github.com/pchintan243/github-readme-stats"><img alt="Chintan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchintan243&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+
+
+
 
 [![Chintan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pchintan243&theme=merko)](https://github.com/pchintan243/github-readme-activity-graph)
 <br/>
