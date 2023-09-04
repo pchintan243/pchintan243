@@ -6,7 +6,7 @@
 </div>
 
 
-### 👉Currently Pursuing B.E. in stream of INFORMATION TECHNOLOGY At A. D. Patel Institute Of Technology (4<sup>th</sup> year)
+### 👉Currently Pursuing B.E. in stream of INFORMATION TECHNOLOGY at A. D. Patel Institute Of Technology (4<sup>th</sup> year)
 
 ### 👀Passionate About Coding✌</h3>
 
