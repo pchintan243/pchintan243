@@ -6,7 +6,7 @@
 </div>
 
 
-### 👉Currently Pursuing B.E. in stream of INFORMATION TECHNOLOGY at A. D. Patel Institute Of Technology (4<sup>th</sup> year)
+### 👉Currently Working At Artem HealthTech as a Backend Developer (Java + Spring Boot)
 
 ### 👀Passionate About Coding✌</h3>
 
@@ -21,11 +21,11 @@
 
 - 👨‍💻 **Portfolio Website link** [**Portfolio**](https://pchintanportfolio.netlify.com/)
 
-- 💬 Ask me About **C || C++ || DSA || HTML || CSS || JS || REACTJS || NODEJS || EXPRESS || MONGODB || BOOTSTRAP**
+- 💬 Ask me About **JAVA || SPRING BOOT || MYSQL || MICROSERVICES || DSA || DOCKER || NODEJS || EXPRESS || MONGODB**
 
 - 📫 How to reach me **patelchintan843@gmail.com**
 
-- 📄 **Resume** [https://drive.google.com/drive/folders/1Hqo4SINt3y--PEzMA1-O1zmtpOilukrO](https://drive.google.com/drive/folders/1Hqo4SINt3y--PEzMA1-O1zmtpOilukrO)
+- 📄 **Resume** [Resume LINK](https://drive.google.com/drive/folders/1Hqo4SINt3y--PEzMA1-O1zmtpOilukrO)
 <br>
 <br>
 
